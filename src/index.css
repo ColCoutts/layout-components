@@ -1,0 +1,17 @@
+.dogs {
+  background-color: red;
+
+  li {
+    color: yellow;
+
+    &:hover {
+      color: aqua;
+    }
+  }
+
+}
+
+/* create global variable */
+/* :global(.dogs) {
+  background-color: red;
+} */
