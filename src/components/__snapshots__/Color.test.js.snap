@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`color snapshots renders correct html 1`] = `
+<div
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+>
+  <dl>
+    <dt
+      style={
+        Object {
+          "color": "green",
+        }
+      }
+    >
+      Name
+    </dt>
+    <dd>
+      Red
+    </dd>
+    <dt>
+      Hex
+    </dt>
+    <dd>
+      FF6347
+    </dd>
+    <dt>
+      RGB
+    </dt>
+    <dd>
+      255,99,71
+    </dd>
+  </dl>
+</div>
+`;
