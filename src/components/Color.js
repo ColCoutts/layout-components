@@ -14,7 +14,7 @@ export default function Color() {
 
   const dtStyle = {
     color: 'green'
-  }
+  };
   
   return (
     <div style={divStyle}>
