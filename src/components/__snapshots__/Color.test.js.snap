@@ -25,7 +25,7 @@ exports[`color snapshots renders correct html 1`] = `
       Hex
     </dt>
     <dd>
-      FF6347
+      #FF6347
     </dd>
     <dt>
       RGB
