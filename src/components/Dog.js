@@ -4,7 +4,7 @@ export default function Dog() {
   const dog = {
     name: 'Jeff',
     age: 'Super old',
-    weight: 'actaully in shape'
+    weight: 'actaully not bad shape'
   };
 
   return (
