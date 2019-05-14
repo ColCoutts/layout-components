@@ -4,7 +4,7 @@ import React from 'react';
 export default function Color() {
   const color = {
     name: 'Red',
-    hex: 'FF6347',
+    hex: '#FF6347',
     rgb: '255,99,71'
   };
 
